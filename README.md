@@ -1,6 +1,6 @@
 #Back Button URL Generator#
+
 **Version 1.0.1 (2014-05-12)**
-=====================
 
 This ExpressionEngine plugin generates a URL based on previous page. This is especially useful with ExpressionEngine's native pagination and/or people coming from external sources.
 
